@@ -1,6 +1,6 @@
 # Stock_price_prediction
 
-The repository contains all the fields scripts for predicting the price of a stock.
+The repository contains all the field scripts for predicting the price of a stock.
 
 ## Contents
 
