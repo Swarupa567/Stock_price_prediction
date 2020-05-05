@@ -4,4 +4,4 @@ The repository contains all the fields scripts for predicting the price of a sto
 
 ## Contents
 
-# Stock_Price_prediction.ipynb 
+## Stock_Price_prediction.ipynb 
