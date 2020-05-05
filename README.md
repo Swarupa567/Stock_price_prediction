@@ -37,8 +37,8 @@ The current source code has been tested on the following system configuration:
     
 ### Demo Result
 
-
-                                    ##Prediction Result
+                       
+![Capture1](https://user-images.githubusercontent.com/22514881/81070146-7beb1f80-8f00-11ea-86c7-5f8940a83fd8.PNG)
  
   
   ## License
