@@ -9,7 +9,11 @@ Implements all necessary python libraries to predict the price of a stock
 
 ## Requirements
 Python 3
+
 Pandas
+
 Numpy
+
 Matplotlib
+
 sklearn
