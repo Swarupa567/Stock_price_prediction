@@ -27,13 +27,13 @@ The current source code has been tested on the following system configuration:
 
 3.Python 3.8.2
 
-  3.1 Numpy 1.18.3
+    3.1 Numpy 1.18.3
   
-  3.2 Pandas 1.0.3
+    3.2 Pandas 1.0.3
   
-  3.3 Matplotlib 3.2.1
+    3.3 Matplotlib 3.2.1
   
-  3.4 sklearn 0.22.2
+    3.4 sklearn 0.22.2
   
   ## License
   
